@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605f2ba7f270d9a4595a0830541454ce, type: 3}
+  m_Name: Final Portal
+  m_EditorClassIdentifier: 
+  res_name: Final Portal
+  description: 
+  dialogues:
+  - Oh no...
+  - No
+  - Not that one
+  endDialogues:
+  - This....this is akward
+  - I guess we owe you an explaination
+  - You see...well. You know. We needed energy
+  - And we have to take that from...somewhere
+  - Ok ok don't look at us like that
+  - Thanks for your "help". Very precious
+  - GoodBye
+  - Moron
+  requisites:
+  - {fileID: 11400000, guid: d60900af1bae98e47997636978210f0c, type: 2}
+  - {fileID: 11400000, guid: cb9c70683e1d9fa42bcda446b58021a8, type: 2}
+  bonus: []
+  malus: []
+  blocked: []

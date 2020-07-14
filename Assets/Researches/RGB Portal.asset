@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605f2ba7f270d9a4595a0830541454ce, type: 3}
+  m_Name: RGB Portal
+  m_EditorClassIdentifier: 
+  res_name: RGB Portal
+  description: 
+  dialogues:
+  - Another one?
+  - I mean
+  - Another portal?
+  endDialogues:
+  - Well done, let's hope it won't happen again
+  requisites:
+  - {fileID: 11400000, guid: 359c8dc7a9c1f0145b9997580deb021f, type: 2}
+  bonus: []
+  malus: []
+  blocked: []

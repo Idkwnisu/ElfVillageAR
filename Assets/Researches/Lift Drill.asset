@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605f2ba7f270d9a4595a0830541454ce, type: 3}
+  m_Name: Lift Drill
+  m_EditorClassIdentifier: 
+  res_name: Lift Drill
+  description: laslkdsa
+  dialogues:
+  - We should probably take away that drill
+  - And by we I mean you
+  - Start from his legs and then remove the body
+  endDialogues:
+  - Well done!
+  requisites:
+  - {fileID: 11400000, guid: 0d494354db9fa434f90973175b0f9bb3, type: 2}
+  bonus: []
+  malus: []
+  blocked: []

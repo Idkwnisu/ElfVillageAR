@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605f2ba7f270d9a4595a0830541454ce, type: 3}
+  m_Name: Sky Rescue
+  m_EditorClassIdentifier: 
+  res_name: Sky Rescue
+  description: placeholder description
+  dialogues:
+  - Hey, so one of us has gone missing
+  - Well, not missing, we sent him in the air
+  - He's kinda floating around with a balloon
+  - We thought it was a good idea to explore the surroundings
+  - Can you recover him?
+  endDialogues:
+  - Hi big friend, where do you take me?
+  requisites: []
+  bonus: []
+  malus: []
+  blocked: []
